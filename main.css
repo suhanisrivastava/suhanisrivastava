@@ -288,7 +288,7 @@ body{
 
 /* Footer */
 footer{
-    width: 80vw;
+    width: 100vw;
 }
 footer .container{
     color: var(--blue);
@@ -309,7 +309,7 @@ footer .container{
     justify-content: center;
 }
 .e-mail h5{
-    padding-left: 3rem;
+    padding-left: 1rem;
     margin-bottom: 0.4rem;
 }
 .left-side i{
